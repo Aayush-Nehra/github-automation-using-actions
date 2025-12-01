@@ -1,0 +1,2 @@
+# githubAutomation
+Learning Github actions
